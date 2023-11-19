@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 # Создаем два случайных массива
 x = np.random.rand(50)  # Создаем массив x из 100 случайных чисел от 0 до 1
 y = np.random.rand(50)  # Создаем массив y из 100 случайных чисел от 0 до 1
-
+ 
 
 # Расчет корреляции Пирсона
 def pearson_correlation(x, y):
